@@ -1,0 +1,23 @@
+.blogCard {
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.blogCardImage {
+  background-color: var(--darkBlue);
+  width: 100%;
+  border-radius: 50px;
+}
+
+.blogCardTitle {
+  font-size: 2rem;
+  color: var(--darkBlue);
+  margin: 1rem 0;
+}
+
+.blogCardText {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

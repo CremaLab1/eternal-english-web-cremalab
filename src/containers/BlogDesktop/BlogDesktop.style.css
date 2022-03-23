@@ -1,0 +1,96 @@
+.blogDesktopContainer {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+.blogsDesktopMain {
+  width: calc(100% - 143px);
+  height: 100%;
+  overflow: auto;
+}
+
+.heroSection {
+  width: 100%;
+  height: 310px;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+.heroImage {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+
+.blogsSectionsContainers {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+.blogsEntrys {
+  width: 100%;
+  max-width: 1000px;
+  padding-bottom: 3rem;
+}
+
+.blogsDesktopButtons {
+  display: flex;
+  justify-content: center;
+}
+
+.blogDesktopLink {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  border: 2px solid #505050;
+  display: grid;
+  place-items: center;
+  transition-duration: var(--duration);
+}
+
+.blogDesktopLink > img {
+  filter: brightness(0) saturate(100%) invert(29%) sepia(52%) saturate(2%)
+    hue-rotate(23deg) brightness(98%) contrast(101%);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .blogDesktopLink:hover {
+    background-color: #505050;
+  }
+
+  .blogDesktopLink:hover > img {
+    filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(2%)
+      hue-rotate(157deg) brightness(111%) contrast(100%);
+  }
+}
+
+.blogDesktopLink:focus-visible {
+  background-color: #505050;
+}
+
+.blogDesktopLink:focus-visible > img {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(2%)
+    hue-rotate(157deg) brightness(111%) contrast(100%);
+}
+
+.marginLink {
+  margin-left: 1rem;
+}
+
+@media (min-width: 1200px) {
+  .blogsDesktopButtons {
+    display: block;
+    position: absolute;
+    right: 3rem;
+  }
+
+  .marginLink {
+    margin-left: 0;
+    margin-top: 1rem;
+  }
+}

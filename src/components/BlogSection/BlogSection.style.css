@@ -1,0 +1,50 @@
+.blogSection {
+  display: flex;
+  margin-bottom: 3rem;
+}
+
+.blogSectionNumber {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  color: var(--darkBlue);
+}
+
+.blogSectionInfo {
+  display: flex;
+  align-items: center;
+  border-bottom: solid 1px var(--gray);
+  color: var(--darkBlue);
+}
+
+.blogSectionTitle {
+  font-size: 2rem;
+}
+
+.blogSectionText {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin: 1rem 0;
+  color: var(--black);
+}
+
+.blogSectionLine {
+  margin-bottom: 1rem;
+  border-top: none;
+  border-bottom: solid 1px var(--gray);
+}
+
+.blogSectionLink {
+  font-weight: 700;
+  font-size: 1.5rem;
+  display: flex;
+}
+
+.blogSectionLink > img {
+  margin-left: 0.5rem;
+  filter: brightness(0) saturate(100%) invert(9%) sepia(75%) saturate(2779%)
+    hue-rotate(189deg) brightness(96%) contrast(101%);
+  align-items: center;
+}

@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Poppins:wght@400;700&display=swap");
+
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --lowBlue: #238dc1;
+  --blue: #005782;
+  --darkBlue: #003764;
+  --veryDarkBlue: #002c4d;
+  --gray: #707070;
+
+  --duration: 200ms;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a,
+button {
+  outline: none;
+  text-decoration: none;
+  background-color: none;
+  color: currentColor;
+  border: none;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+/* Utility Clasess */
+
+.inter {
+  font-family: "Inter", sans-serif;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+}

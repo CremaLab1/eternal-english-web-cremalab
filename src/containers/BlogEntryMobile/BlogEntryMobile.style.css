@@ -1,0 +1,52 @@
+.blogEntryContainer {
+  background-color: var(--darkBlue);
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.blogEntryImage {
+  width: 100%;
+}
+
+.blogEntryData {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--white);
+}
+
+.blogEntryButtons {
+  padding: 2rem 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.blogEntryHeader {
+  width: 100%;
+  height: 30%;
+  padding: 1.5rem;
+}
+
+.entryLinkHome {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.blogEntryMain {
+  width: 100%;
+  height: 70%;
+  background-color: white;
+  padding: 2.5rem 1.5rem;
+  border-radius: 50px 50px 0 0;
+  overflow: auto;
+  color: var(--black);
+}
+
+.blogEntryPostImage {
+  margin-top: 2rem;
+  width: 100%;
+  max-width: 350px;
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.858" height="28.858" viewBox="0 0 28.858 28.858">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #505050;
+      }
+    </style>
+  </defs>
+  <path id="Icon_awesome-border-all" data-name="Icon awesome-border-all" class="cls-1" d="M26.8,2.25H2.061A2.061,2.061,0,0,0,0,4.311V29.046a2.061,2.061,0,0,0,2.061,2.061H26.8a2.061,2.061,0,0,0,2.061-2.061V4.311A2.061,2.061,0,0,0,26.8,2.25ZM24.735,6.373v8.245H16.49V6.373Zm-12.368,0v8.245H4.123V6.373ZM4.123,26.985V18.74h8.245v8.245Zm12.368,0V18.74h8.245v8.245Z" transform="translate(0 -2.25)"/>
+</svg>

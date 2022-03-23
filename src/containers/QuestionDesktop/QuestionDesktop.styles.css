@@ -1,0 +1,67 @@
+.questionsDesktopMain {
+  width: 100%;
+  height: 100%;
+  background-image: url("../../assets/bg-cell-desktop.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+}
+
+.questionDesktopContainer {
+  width: calc(100% - 143px);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 120px 3rem 0;
+}
+
+.questionDesktopTitle {
+  color: var(--white);
+  font-weight: 300;
+  text-transform: uppercase;
+  font-size: 2.8rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.questionNextButton {
+  display: grid;
+  place-items: center;
+  border: solid 2px var(--white);
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  transition-duration: var(--duration);
+}
+
+.questionNextButtonImage {
+  transform: rotate(-180deg);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .questionNextButton:hover {
+    background-color: var(--white);
+  }
+
+  .questionNextButton:hover > .questionNextButtonImage {
+    filter: brightness(0) saturate(100%);
+  }
+}
+
+.questionNextButton:focus-visible {
+  background-color: var(--white);
+}
+
+.questionNextButton:focus-visible > .questionNextButtonImage {
+  filter: brightness(0) saturate(100%);
+}
+
+@media (min-width: 1200px) {
+  .questionNextButton {
+    position: absolute;
+    right: 3rem;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}

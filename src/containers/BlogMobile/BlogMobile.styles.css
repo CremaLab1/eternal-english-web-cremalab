@@ -1,0 +1,27 @@
+.blogContainerMobile {
+  width: 100%;
+  height: 100vh;
+  overflow: auto;
+  padding: 1.5rem;
+  background-image: url("../../assets/bg-pattern-mobile.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.blogButtonsMobile {
+  padding-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.blogButtonBack > img {
+  filter: brightness(0) saturate(100%) invert(9%) sepia(75%) saturate(2779%)
+    hue-rotate(189deg) brightness(96%) contrast(101%);
+}
+
+.blogButtonHome {
+  color: var(--darkBlue);
+  text-transform: uppercase;
+  font-weight: 700;
+}

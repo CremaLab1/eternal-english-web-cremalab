@@ -1,0 +1,33 @@
+.questionsMobileContainer {
+  width: 100%;
+  height: 100vh;
+  overflow: auto;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("../../assets/bg-cell-mobile.jpg");
+  background-size: cover;
+}
+
+.questionsButtons {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.rotateIcon {
+  transform: rotate(-180deg);
+}
+
+.questionsTitle {
+  font-weight: 300;
+  margin: 1.5rem 0;
+  color: var(--white);
+  text-transform: uppercase;
+}
+
+.questionsElements {
+  width: 100%;
+  margin-top: 2rem;
+}

@@ -1,0 +1,34 @@
+.questionModalContainer {
+  background-color: var(--white);
+  border-radius: 1rem;
+  width: 100%;
+  margin-bottom: 1rem;
+  -webkit-box-shadow: 5px 5px 3px -4px rgba(0, 0, 0, 0.37);
+  -moz-box-shadow: 5px 5px 3px -4px rgba(0, 0, 0, 0.37);
+  box-shadow: 5px 5px 3px -4px rgba(0, 0, 0, 0.37);
+}
+
+.questionModalContainerHeader {
+  padding: 1rem;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.questionModalTitle {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  flex-basis: 100%;
+  margin-right: 2rem;
+}
+
+.questionModalText {
+  width: 100%;
+  overflow: hidden;
+}
+
+.questionModalTitleText {
+  padding: 1rem;
+}

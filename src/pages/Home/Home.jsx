@@ -42,7 +42,9 @@ const Home = () => {
               <br />
               recover your
               <br />
-              <span className="blueSpan"></span>
+              <span className="blueSpan">Health</span> with
+              <br />
+              Stem Cells
             </h1>
             <Link to="/faq" className="homeButton poppins">
               Start the journey

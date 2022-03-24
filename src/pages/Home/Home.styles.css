@@ -37,8 +37,8 @@
   line-height: 2.3rem;
   color: var(--white);
   display: block;
-  height: 140px;
   text-transform: uppercase;
+  margin-bottom: 3rem;
 }
 
 .homeButton {
@@ -64,72 +64,15 @@
   background-color: var(--darkBlue);
 }
 
-.blueSpan::before {
-  content: "";
+.blueSpan {
   color: var(--lowBlue);
-  animation: animate infinite 8s;
-}
-
-@keyframes animate {
-  0% {
-    opacity: 0;
-    content: "Health";
-  }
-  10% {
-    opacity: 1;
-    content: "Health";
-  }
-  20% {
-    opacity: 1;
-    content: "Health";
-  }
-  30% {
-    opacity: 0;
-    content: "Health";
-  }
-  31% {
-    opacity: 0;
-    content: "";
-  }
-  40% {
-    opacity: 1;
-    content: "Wealth";
-  }
-  50% {
-    opacity: 1;
-    content: "Wealth";
-  }
-  60% {
-    opacity: 0;
-    content: "Wealth";
-  }
-  61% {
-    opacity: 0;
-    content: "";
-  }
-  70% {
-    opacity: 1;
-    content: "Happiness";
-  }
-  80% {
-    opacity: 1;
-    content: "Happiness";
-  }
-  99% {
-    opacity: 0;
-    content: "Happiness";
-  }
-  100% {
-    opacity: 0;
-    content: "";
-  }
 }
 
 @media (min-width: 768px) {
   .titleStyle {
     font-size: 4.5rem;
     line-height: 4.6rem;
-    height: 250px;
+    /* height: 250px; */
   }
 
   .homeButton {

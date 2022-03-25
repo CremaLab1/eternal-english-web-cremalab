@@ -17,7 +17,7 @@ const BlogSection = ({ id, title, children, img, entry }) => {
           <p className="blogSectionText">{children}</p>
           <hr className="blogSectionLine" />
           <Link className="blogSectionLink" to={`/blog/${entry}`}>
-            View Blog Details
+            View Details
             <img src={ArrowRight} alt="Arrow Icon" />
           </Link>
         </div>

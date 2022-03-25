@@ -6,7 +6,7 @@
     "previewMobile": "/herbal-vitamin.png",
     "postImage": "/grateful-patient-desktop.png",
     "postMobile": "/grateful-patient.png",
-    "title": "Title 1",
+    "title": "Diabetes",
     "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in justo elementum, elementum metus non, auctor metus. Vestibulum ullamcorper euismod nunc, eu laoreet nibh convallis eu. Duis ac vulputate tortor. Aliquam a molestie dui, id gravida massa. Pellentesque id malesuada ligula. Nam tincidunt at mi a consequat. Fusce et viverra risus. Nulla facilisis eu leo vitae mattis. Proin massa risus, scelerisque ac mi a, sodales viverra lectus. Praesent sed fringilla lectus. Aliquam odio risus, ullamcorper quis dapibus quis, varius sed massa.\n\nPellentesque tincidunt fringilla luctus. Mauris fermentum molestie pulvinar. In lobortis ipsum ut lorem consectetur, et tincidunt augue consequat. In vitae sagittis velit, fringilla ornare lacus. Proin eget egestas nisi. Nunc id vestibulum elit, a tempus turpis. Sed sed finibus mauris. Curabitur commodo diam eu molestie convallis. Pellentesque tristique ligula nec tellus fringilla, eu elementum ligula auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam gravida pulvinar nunc, eget consectetur lacus lacinia sed. Etiam velit ex, pulvinar a semper sit amet, volutpat at erat. Praesent feugiat euismod congue. Curabitur dictum ornare risus, sed euismod lacus euismod dignissim. Etiam non massa ut dui lobortis ornare.\n\nNulla efficitur ornare condimentum. Donec placerat ipsum eu augue varius, vitae ultricies enim luctus. Nunc condimentum suscipit dui sit amet sodales. Donec venenatis lectus eu justo tempor, eget ultrices dolor tempus. In hac habitasse platea dictumst. Quisque posuere tortor id tellus molestie fermentum. Pellentesque hendrerit dolor id dictum dictum. Vestibulum accumsan elementum justo at ultrices. Aenean interdum quam nisi, pharetra imperdiet ligula aliquet ut. Vestibulum libero lorem, aliquet ac lorem ac, hendrerit congue velit."
   },
   {
@@ -16,7 +16,7 @@
     "previewMobile": "/herbal-vitamin.png",
     "postImage": "/grateful-patient-desktop.png",
     "postMobile": "/grateful-patient.png",
-    "title": "Title 2",
+    "title": "Alzheimer and Dementia",
     "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
   },
   {
@@ -26,7 +26,7 @@
     "previewMobile": "/herbal-vitamin.png",
     "postImage": "/grateful-patient-desktop.png",
     "postMobile": "/grateful-patient.png",
-    "title": "Title 3",
+    "title": "Arthritis",
     "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
   },
   {
@@ -36,7 +36,7 @@
     "previewMobile": "/herbal-vitamin.png",
     "postImage": "/grateful-patient-desktop.png",
     "postMobile": "/grateful-patient.png",
-    "title": "Title 4",
+    "title": "Pains",
     "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
   },
   {
@@ -46,7 +46,7 @@
     "previewMobile": "/herbal-vitamin.png",
     "postImage": "/grateful-patient-desktop.png",
     "postMobile": "/grateful-patient.png",
-    "title": "Title 5",
+    "title": "Autoinmune Diseases",
     "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
   },
   {
@@ -56,7 +56,137 @@
     "previewMobile": "/herbal-vitamin.png",
     "postImage": "/grateful-patient-desktop.png",
     "postMobile": "/grateful-patient.png",
-    "title": "Title 6",
+    "title": "Cardiomyopathy",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
+  },
+  {
+    "entry": "entry-7",
+    "id": 7,
+    "previewImage": "/herbal-vitamin-desktop.png",
+    "previewMobile": "/herbal-vitamin.png",
+    "postImage": "/grateful-patient-desktop.png",
+    "postMobile": "/grateful-patient.png",
+    "title": "COPD",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
+  },
+  {
+    "entry": "entry-8",
+    "id": 8,
+    "previewImage": "/herbal-vitamin-desktop.png",
+    "previewMobile": "/herbal-vitamin.png",
+    "postImage": "/grateful-patient-desktop.png",
+    "postMobile": "/grateful-patient.png",
+    "title": "Stroke",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
+  },
+  {
+    "entry": "entry-9",
+    "id": 9,
+    "previewImage": "/herbal-vitamin-desktop.png",
+    "previewMobile": "/herbal-vitamin.png",
+    "postImage": "/grateful-patient-desktop.png",
+    "postMobile": "/grateful-patient.png",
+    "title": "Erectile Dysfunction",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
+  },
+  {
+    "entry": "entry-10",
+    "id": 10,
+    "previewImage": "/herbal-vitamin-desktop.png",
+    "previewMobile": "/herbal-vitamin.png",
+    "postImage": "/grateful-patient-desktop.png",
+    "postMobile": "/grateful-patient.png",
+    "title": "Heart Failures",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
+  },
+  {
+    "entry": "entry-11",
+    "id": 11,
+    "previewImage": "/herbal-vitamin-desktop.png",
+    "previewMobile": "/herbal-vitamin.png",
+    "postImage": "/grateful-patient-desktop.png",
+    "postMobile": "/grateful-patient.png",
+    "title": "Headaches",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
+  },
+  {
+    "entry": "entry-12",
+    "id": 12,
+    "previewImage": "/herbal-vitamin-desktop.png",
+    "previewMobile": "/herbal-vitamin.png",
+    "postImage": "/grateful-patient-desktop.png",
+    "postMobile": "/grateful-patient.png",
+    "title": "Kidney Failure",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
+  },
+  {
+    "entry": "entry-13",
+    "id": 13,
+    "previewImage": "/herbal-vitamin-desktop.png",
+    "previewMobile": "/herbal-vitamin.png",
+    "postImage": "/grateful-patient-desktop.png",
+    "postMobile": "/grateful-patient.png",
+    "title": "Interstitial Cystitis",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
+  },
+  {
+    "entry": "entry-14",
+    "id": 14,
+    "previewImage": "/herbal-vitamin-desktop.png",
+    "previewMobile": "/herbal-vitamin.png",
+    "postImage": "/grateful-patient-desktop.png",
+    "postMobile": "/grateful-patient.png",
+    "title": "Migraines",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
+  },
+  {
+    "entry": "entry-15",
+    "id": 15,
+    "previewImage": "/herbal-vitamin-desktop.png",
+    "previewMobile": "/herbal-vitamin.png",
+    "postImage": "/grateful-patient-desktop.png",
+    "postMobile": "/grateful-patient.png",
+    "title": "Multiple sclerosis",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
+  },
+  {
+    "entry": "entry-16",
+    "id": 16,
+    "previewImage": "/herbal-vitamin-desktop.png",
+    "previewMobile": "/herbal-vitamin.png",
+    "postImage": "/grateful-patient-desktop.png",
+    "postMobile": "/grateful-patient.png",
+    "title": "",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
+  },
+  {
+    "entry": "entry-17",
+    "id": 17,
+    "previewImage": "/herbal-vitamin-desktop.png",
+    "previewMobile": "/herbal-vitamin.png",
+    "postImage": "/grateful-patient-desktop.png",
+    "postMobile": "/grateful-patient.png",
+    "title": "Neuropathy - Peripheral & Diabetic",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
+  },
+  {
+    "entry": "entry-18",
+    "id": 18,
+    "previewImage": "/herbal-vitamin-desktop.png",
+    "previewMobile": "/herbal-vitamin.png",
+    "postImage": "/grateful-patient-desktop.png",
+    "postMobile": "/grateful-patient.png",
+    "title": "Rheumatoid Arthritis",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
+  },
+  {
+    "entry": "entry-19",
+    "id": 19,
+    "previewImage": "/herbal-vitamin-desktop.png",
+    "previewMobile": "/herbal-vitamin.png",
+    "postImage": "/grateful-patient-desktop.png",
+    "postMobile": "/grateful-patient.png",
+    "title": "Lyme disease",
     "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quas, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla, excepturi eum porro saepe sunt tenetur corrupti placeat velit atque molestias eaque dolore ex nihil natus. Corporis placeat quo nulla."
   }
 ]

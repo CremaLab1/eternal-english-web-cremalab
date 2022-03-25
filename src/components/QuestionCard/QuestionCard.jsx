@@ -10,7 +10,7 @@ const QuestionCard = ({ title, children, prev, next }) => {
       exit={{ opacity: 0 }}
     >
       <h2 className="questionCardTitle">{title}</h2>
-      <div className="questioncardConatiner">
+      <div className="questioncardContainer">
         <p className="inter">{children}</p>
       </div>
       <div className="questionCardButtons">

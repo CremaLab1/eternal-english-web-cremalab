@@ -14,12 +14,11 @@
   text-align: center;
 }
 
-.questioncardConatiner {
+.questioncardContainer {
   background-color: var(--white);
   border-radius: 25px;
-  padding: 1.2rem;
+  padding: 1rem;
   text-align: center;
-  font-size: 1.1rem;
 }
 
 .questionCardButtons {

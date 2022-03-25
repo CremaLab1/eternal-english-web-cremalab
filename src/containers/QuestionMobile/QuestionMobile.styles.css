@@ -29,3 +29,24 @@
   width: 100%;
   margin-top: 2rem;
 }
+
+.diseasesContainer {
+  margin-bottom: 1rem;
+  font-weight: 500;
+  padding: 1.5rem;
+  background-color: var(--white);
+  width: 100%;
+  font-size: 1.2rem;
+  border-radius: 15px;
+}
+
+.itemListContainer {
+  display: flex;
+  margin-bottom: 0.2rem;
+}
+
+.checkIcon {
+  filter: brightness(0) saturate(100%) invert(17%) sepia(46%) saturate(2522%)
+    hue-rotate(186deg) brightness(90%) contrast(103%);
+  margin-right: 10px;
+}

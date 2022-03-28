@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import ArrowBack from "../../assets/arrow-back.svg";
 import BlogsData from "../../data/entrys.json";
 import BlogCard from "../../components/BlogCard/BlogCard";
+import WhatsAppButton from "../../components/WhatsAppButton/WhatsAppButton";
 
 const BlogMobile = () => {
   return (
@@ -22,6 +23,7 @@ const BlogMobile = () => {
           </BlogCard>
         ))}
       </main>
+      <WhatsAppButton />
     </div>
   );
 };

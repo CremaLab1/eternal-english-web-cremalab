@@ -6,6 +6,7 @@ import QuestionModal from "../../components/QuestionModal/QuestionModal";
 import QuestionsData from "../../data/questions.json";
 import DiseasesData from "../../data/diseases.json";
 import CheckIcon from "../../assets/check.svg";
+import WhatsAppButton from "../../components/WhatsAppButton/WhatsAppButton";
 
 const QuestionMobile = () => {
   return (
@@ -36,6 +37,7 @@ const QuestionMobile = () => {
           </QuestionModal>
         ))}
       </div>
+      <WhatsAppButton />
     </div>
   );
 };

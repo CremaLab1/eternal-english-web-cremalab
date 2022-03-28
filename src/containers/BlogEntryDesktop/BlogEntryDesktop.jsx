@@ -3,6 +3,7 @@ import LateralBar from "../../components/LateralBar/LateralBar";
 import { Link } from "react-router-dom";
 import MosaicIcon from "../../assets/border-all.svg";
 import ArrowBack from "../../assets/arrow-back.svg";
+import WhatsAppButton from "../../components/WhatsAppButton/WhatsAppButton";
 
 const BlogEntryDesktop = ({ title, info, postImage }) => {
   return (
@@ -28,6 +29,7 @@ const BlogEntryDesktop = ({ title, info, postImage }) => {
           </div>
           <p>{info}</p>
         </main>
+        <WhatsAppButton />
       </div>
     </div>
   );

@@ -6,6 +6,7 @@ import BlogSection from "../../components/BlogSection/BlogSection";
 import { Link } from "react-router-dom";
 import HomeIcon from "../../assets/home.svg";
 import ArrowBack from "../../assets/arrow-back.svg";
+import WhatsAppButton from "../../components/WhatsAppButton/WhatsAppButton";
 
 const BlogDesktop = () => {
   return (
@@ -38,6 +39,7 @@ const BlogDesktop = () => {
             ))}
           </div>
         </div>
+        <WhatsAppButton />
       </main>
     </div>
   );

@@ -1,6 +1,7 @@
 import "./BlogEntryMobile.style.css";
 import { Link } from "react-router-dom";
 import ArrowBack from "../../assets/arrow-back.svg";
+import WhatsAppButton from "../../components/WhatsAppButton/WhatsAppButton";
 
 const BlogEntryMobile = ({ title, info, previewMobile, postMobile }) => {
   return (
@@ -22,6 +23,7 @@ const BlogEntryMobile = ({ title, info, previewMobile, postMobile }) => {
           <p>{info}</p>
           <img className="blogEntryPostImage" src={postMobile} alt="" />
         </main>
+        <WhatsAppButton />
       </div>
     </div>
   );

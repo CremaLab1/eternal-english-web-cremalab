@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import "./Home.styles.css";
 import { Link } from "react-router-dom";
+import WhatsAppButton from "../../components/WhatsAppButton/WhatsAppButton";
 
 const Home = () => {
   const [desktopVideo, setDesktopVideo] = useState(false);
@@ -41,6 +42,7 @@ const Home = () => {
             Start the journey
           </Link>
         </div>
+        <WhatsAppButton />
       </main>
     </div>
   );

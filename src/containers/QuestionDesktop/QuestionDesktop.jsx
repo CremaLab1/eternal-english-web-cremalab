@@ -8,6 +8,7 @@ import { Link } from "react-router-dom";
 import ArrowBack from "../../assets/arrow-back.svg";
 import DiseasesData from "../../data/diseases.json";
 import CheckIcon from "../../assets/check.svg";
+import WhatsAppButton from "../../components/WhatsAppButton/WhatsAppButton";
 
 const QuestionDesktop = () => {
   const [questionIndex, setQuestionIndex] = useState(0);
@@ -73,6 +74,7 @@ const QuestionDesktop = () => {
             )}
           </AnimatePresence>
         </div>
+        <WhatsAppButton />
       </div>
     </div>
   );
